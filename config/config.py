@@ -54,7 +54,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 # For customized or modified Repository
-UPSTREAM_REPO = "https://github.com/TeamAviax/AviaxMusic"
+UPSTREAM_REPO = "https://github.com/Kingxd021/jenumusicbot
 UPSTREAM_BRANCH = "master"
 
 # GIT TOKEN ( if your edited repo is private)
@@ -154,7 +154,7 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph//file/a88d2ba7738072032e4a7.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/9d7c2a95c8f102fb4f48f.jpg)
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
